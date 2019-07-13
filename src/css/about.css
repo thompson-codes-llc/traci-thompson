@@ -1,0 +1,14 @@
+.about {
+  color: white;
+  font-family: 'Cinzel', serif;
+  width: 80%;
+  font-size: 2em;
+  margin-top: 3%;
+}
+
+.bar {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}

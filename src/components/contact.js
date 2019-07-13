@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/contact.css';
 
 class Contact extends React.Component {
   constructor(props) {
@@ -9,18 +10,7 @@ render() {
   return(
     <div className="contact">
       <a href="mailto:Traci@Thompson.Codes" targer="_href">Traci@Thompson.Codes</a>
-      <style jsx>{`
-        a {
-          text-decoration: none;
-          color: white;
-          font-family: 'Cinzel', serif;
-          font-size: 3em;
-        }
-        .contact {
-          margin-top: 125px;
-        }
-      `}</style>
-      </div>
+    </div>
   )};
 }
 export default Contact

@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/navlinks.css';
 
 class NavLinks extends React.Component {
 
@@ -8,15 +9,6 @@ render() {
       <a href="#home" onClick={this.props.handleClick.bind(this, "Home")} >Home</a>
       | <a href="#resume" onClick={this.props.handleClick.bind(this, "Resume")} >Resume</a>
       | <a href="#about" onClick={this.props.handleClick.bind(this, "About")} >About Me</a>
-      <style jsx>{`
-        a {
-          text-decoration: none;
-          color: white;
-          font-family: 'Cinzel', serif;
-          font-size: 1.3em;
-          margin: 15px;
-        }
-      `}</style>
     </div>
   )};
 }
