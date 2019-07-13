@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/home.css';
-import Photo from '/Users/traci/code/traci-thompson/src/static/traci-mountain.jpg';
+import Photo from '../static/traci_on_mountain.jpg';
 
 class Home extends React.Component {
 
