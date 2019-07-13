@@ -1,6 +1,7 @@
 import React from 'react';
-import '../css/about.css';
 import ContactLinks from './contactlinks';
+import Arrows from '../static/arrows.png';
+import '../css/about.css';
 
 class About extends React.Component {
 
@@ -13,16 +14,16 @@ render() {
 
       <p>As a Full Stack Developer I can provide custom services depending upon your needs. Please contact me using
         any of the methods below if you would like to discuss a potential project.</p>
-      <img src="../static/arrows.png" alt="arrows"/>
+      <img class="contact_icon" src={Arrows} alt="arrows"/>
       <br />
       <div id="contact_links">
         <ContactLinks />
       </div>
       <div>
-        <img src="../static/arrows.png" alt="arrows"/>
+        <img class="contact_icon" src={Arrows} alt="arrows"/>
       </div>
-      <div>
-        <h3>Media & Publications</h3>
+      <div class="media">
+        <h4>Media & Publications</h4>
         <a href="https://www.thewomenofdenver.com/articles/becoming-a-software-developer-traci-thompson" target="_blank" rel="noopener noreferrer">Women Of Denver: Becoming a Software Developer</a>
         <br />
         <a href="https://medium.com/@TraciThompson/bubble-sort-the-gateway-algorithm-52f015fb37a7" target="_blank" rel="noopener noreferrer">Bubble Sort: The gateway algorithm</a>

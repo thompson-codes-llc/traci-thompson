@@ -12,3 +12,18 @@
   background-color: black;
   margin: 6px 0;
 }
+
+.contact_icon {
+  width: auto;
+  border: none;
+}
+
+.media h4 {
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1em;
+}
+
+.media a {
+  font-size: 1em;
+}
