@@ -25,13 +25,13 @@ render() {
       <div class="media">
         <h4>Media & Publications</h4>
         <a href="https://www.thewomenofdenver.com/articles/becoming-a-software-developer-traci-thompson" target="_blank" rel="noopener noreferrer">Women Of Denver: Becoming a Software Developer</a>
-        <br />
+        <hr width="5%"/>
         <a href="https://medium.com/@TraciThompson/bubble-sort-the-gateway-algorithm-52f015fb37a7" target="_blank" rel="noopener noreferrer">Bubble Sort: The gateway algorithm</a>
-        <br />
+        <hr width="5%" />
         <a href="https://medium.com/@TraciThompson/http-request-to-rails-db-angular-views-b742f3eca71b" target="_blank" rel="noopener noreferrer">HTTP request to Rails DB & Angular Views</a>
-        <br />
+        <hr width="5%" />
         <a href="https://medium.com/@TraciThompson/continuously-looping-non-sequential-arrays-on-click-with-jquery-and-ruby-on-rails-3a80d5e9abae" target="_blank" rel="noopener noreferrer">Looping non-sequential arrays with jQuery & Ruby on Rails</a>
-        <br />
+        <hr width="5%" />
         <a href="https://medium.com/@TraciThompson/why-i-decided-to-learn-software-development-d8dadaa3360a" target="_blank" rel="noopener noreferrer">Why I decided to learn software development</a>
       </div>
     </div>

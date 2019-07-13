@@ -1,6 +1,12 @@
 a {
   text-decoration: none;
   font-family: 'Cinzel', serif;
-  font-size: 1.3em;
+  font-size: 1.6em;
   margin: 15px;
+}
+
+@media screen and (max-width: 765px) {
+  .navlinks {
+    font-size: .8em;
+  }
 }
