@@ -5,6 +5,7 @@ import Resume from '../components/resume';
 import About from '../components/about';
 import '../css/index.css';
 
+
 class Index extends React.Component {
 
   constructor(props) {
