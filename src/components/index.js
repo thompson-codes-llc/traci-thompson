@@ -43,7 +43,7 @@ class Index extends React.Component {
     return (
       <div className="page">
         <div className="index">
-          <h3 id="name">Traci Thompson <span id="divide">| </span>Full Stack Developer</h3>
+          <h3 id="name">Traci Thompson <span id="divide">| </span>Software Engineer</h3>
           <NavLinks handleClick={this.handleClick}/>
         </div>
         <div className="content">
