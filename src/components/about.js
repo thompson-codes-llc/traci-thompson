@@ -12,8 +12,7 @@ render() {
       <p>I come from an upbrining immersed in visual arts, years spent learning and working in the culinary arts,
         and continued education in multiple areas with a focus towards Public Health and federal grant work.</p>
 
-      <p>As a Full Stack Developer I can provide custom services depending upon your needs. Please contact me using
-        any of the methods below if you would like to discuss a potential project.</p>
+      <p>Please contact me using any of the methods below if you would like to discuss a potential project.</p>
       <img class="contact_icon" src={Arrows} alt="arrows"/>
       <br />
       <div id="contact_links">
