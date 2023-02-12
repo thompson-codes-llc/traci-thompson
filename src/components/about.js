@@ -9,7 +9,7 @@ render() {
   return(
     <div className="about">
       <p>My unique background helps me to view software development through a creative lens. </p>
-      <p>I come from an upbrining immersed in visual arts, years spent learning and working in the culinary arts,
+      <p>I come from an upbringing immersed in visual arts, years spent learning and working in the culinary arts,
         and continued education in multiple areas with a focus towards Public Health and federal grant work.</p>
 
       <p>Please contact me using any of the methods below if you would like to discuss a potential project.</p>
